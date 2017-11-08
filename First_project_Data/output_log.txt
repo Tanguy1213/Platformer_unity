@@ -1,0 +1,286 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4031 MB
+    Driver:   23.21.13.8800
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.154 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.002345 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.772395 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.216615 ms (FindLiveObjects: 0.024433 ms CreateObjectMapping: 0.012398 ms MarkObjects: 0.165196 ms  DeleteObjects: 0.014222 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.594780 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 0.389105 ms (FindLiveObjects: 0.028444 ms CreateObjectMapping: 0.025527 ms MarkObjects: 0.229378 ms  DeleteObjects: 0.105025 ms)
+
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4031 MB
+    Driver:   23.21.13.8800
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Users\GreenT\SAE\Unity\FirstProject\First_project\First_project_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.018 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.218596 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.806310 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 380.
+Total: 0.215156 ms (FindLiveObjects: 0.025527 ms CreateObjectMapping: 0.012034 ms MarkObjects: 0.162279 ms  DeleteObjects: 0.014586 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at bulletManager.OnCollisionEnter2D (UnityEngine.Collision2D collision) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 49d8 -> priority: 1 
+  Thread -> id: 20f8 -> priority: 1 
+  Thread -> id: 2b30 -> priority: 1 
+  Thread -> id: 1e34 -> priority: 1 
+  Thread -> id: 440c -> priority: 1 
+  Thread -> id: 1da0 -> priority: 1 

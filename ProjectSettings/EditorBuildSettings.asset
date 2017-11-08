@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Sc\xE8ne/StartMenu 1.unity"
+    guid: 29ab27c313c3dda4bac88b939da48040
+  - enabled: 1
+    path: "Assets/Sc\xE8ne/1st_level.unity"
+    guid: 573d3303854ce6a44b07fead188e2aeb
+  - enabled: 0
+    path: 
+    guid: ebec7f2af47104f428efcb112fa78043
+  - enabled: 1
+    path: "Assets/Sc\xE8ne/GameOver.unity"
+    guid: 85e405378a96a844f99c2fa6256706de
